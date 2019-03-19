@@ -8,6 +8,9 @@ The code and information for my raspberry pi security camera
 * Introduction to projects using a Raspberry Pi
 * Using Raspberry Pi modules such as the camera module
 
+## This expanded my knowledge on
+* Using JSON in python
+
 ## Images
 
 ## How it works
