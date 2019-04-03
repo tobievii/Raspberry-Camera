@@ -1,15 +1,15 @@
 # Raspberry-Camera
-The code and information for my raspberry pi security camera
+The code and information for my RaspberryPi security camera
 
 ## What this taught me
-* Introduction to coding in Linux
-* First rpi project
-* Use of rpi camera module
-* Using motion on an rpi
-* Hosting a webserver off of an rpi
+* Introduction to working in Linux
+* First RaspberryPi project
+* Use of RaspberryPi camera module
+* Using motion project on an RasberryPi
+* Hosting a webserver off of a RaspberryPi 
 
 ## This expanded my knowledge on
-* Using rpi
+* Using a RaspberryPi
 
 ## Images
 
@@ -22,4 +22,4 @@ The code and information for my raspberry pi security camera
 1. The program saves the video locally and uploads the file Dropbox if this setting is enabled
 
 ## Why I did this project
-I did this project because I wanted to introduce myself to raspberry pi and using Linux, python and pi modules effectively together to make something interesting and useful for someone in their daily lives
+I did this project because I wanted to introduce myself to using a RaspberryPi and using Linux, python and RaspberryPi modules effectively together to make something interesting and useful for someone in their daily lives
